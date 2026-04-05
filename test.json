@@ -3,7 +3,7 @@
     "log": {
       "loglevel": "none"
     },
-    "remarks": "telegram-only",
+    "remarks": "telegram-only-test",
     "dns": {
       "servers": [
         "1.1.1.1",
@@ -184,11 +184,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "51.250.123.120",
+              "address": "media.xispbot.shop",
               "port": 443,
               "users": [
                 {
-                  "id": "8b2a8004-833a-4389-93ee-a01afd4b57b7",
+                  "id": "f698f45b-1b20-4407-92e4-121ea19e7ec7",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -200,10 +200,10 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "submodegta.mooo.com",
-            "fingerprint": "random",
-            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ",
-            "shortId": "bda17fce2abc5bde"
+            "serverName": "mediacdn.xispbot.shop",
+            "fingerprint": "firefox",
+            "publicKey": "PeVaFHQPfUoilmiIKhS75znSZQfVplGCoJSBwkROPS4",
+            "shortId": "18be"
           },
           "tcpSettings": {}
         }
@@ -229,7 +229,7 @@
     "log": {
       "loglevel": "none"
     },
-    "remarks": "full-vpn",
+    "remarks": "full-vpn-test",
     "dns": {
       "servers": [
         "1.1.1.1",
@@ -381,11 +381,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "51.250.123.120",
+              "address": "media.xispbot.shop",
               "port": 443,
               "users": [
                 {
-                  "id": "8b2a8004-833a-4389-93ee-a01afd4b57b7",
+                  "id": "f698f45b-1b20-4407-92e4-121ea19e7ec7",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -397,10 +397,10 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "submodegta.mooo.com",
-            "fingerprint": "random",
-            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ",
-            "shortId": "bda17fce2abc5bde"
+            "serverName": "mediacdn.xispbot.shop",
+            "fingerprint": "firefox",
+            "publicKey": "PeVaFHQPfUoilmiIKhS75znSZQfVplGCoJSBwkROPS4",
+            "shortId": "18be"
           },
           "tcpSettings": {}
         }
