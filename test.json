@@ -71,13 +71,13 @@
         "settings": {
           "vnext": [
             {
-              "address": "kinose111.kazkino.net",
+              "address": "startmodegta.mooo.com",
               "port": 443,
               "users": [
                 {
-                  "id": "3b923d7a-1a09-4121-863c-7fdc362d99e5",
+                  "id": "8b2a8004-833a-4389-93ee-a01afd4b57b7",
                   "encryption": "none",
-                  "flow": ""
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
@@ -85,19 +85,14 @@
         },
         "streamSettings": {
           "network": "tcp",
-          "tcpSettings": {},
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "kinose111.kazkino.net",
-            "allowInsecure": false,
-            "show": false
-          }
-        },
-        "mux": {
-          "enabled": true,
-          "concurrency": 16,
-          "xudpConcurrency": 16,
-          "xudpProxyUDP443": "reject"
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "submodegta.mooo.com",
+            "fingerprint": "random",
+            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ&",
+            "shortId": "bda17fce2abc5bde"
+          },
+          "tcpSettings": {}
         }
       },
       {
@@ -272,13 +267,13 @@
         "settings": {
           "vnext": [
             {
-              "address": "kinose111.kazkino.net",
+              "address": "startmodegta.mooo.com",
               "port": 443,
               "users": [
                 {
-                  "id": "3b923d7a-1a09-4121-863c-7fdc362d99e5",
+                  "id": "8b2a8004-833a-4389-93ee-a01afd4b57b7",
                   "encryption": "none",
-                  "flow": ""
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
@@ -286,19 +281,14 @@
         },
         "streamSettings": {
           "network": "tcp",
-          "tcpSettings": {},
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "kinose111.kazkino.net",
-            "allowInsecure": false,
-            "show": false
-          }
-        },
-        "mux": {
-          "enabled": true,
-          "concurrency": 16,
-          "xudpConcurrency": 16,
-          "xudpProxyUDP443": "reject"
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "submodegta.mooo.com",
+            "fingerprint": "random",
+            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ&",
+            "shortId": "bda17fce2abc5bde"
+          },
+          "tcpSettings": {}
         }
       },
       {
