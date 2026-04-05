@@ -11,7 +11,7 @@
     "log": {
       "loglevel": "none"
     },
-    "remarks": "allacess",
+    "remarks": "tgonly",
     "inbounds": [
       {
         "tag": "socks",
@@ -212,7 +212,7 @@
     "log": {
       "loglevel": "none"
     },
-    "remarks": "tgonly",
+    "remarks": "fullaccess",
     "inbounds": [
       {
         "tag": "socks",
