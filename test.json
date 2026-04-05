@@ -89,7 +89,7 @@
           "realitySettings": {
             "serverName": "submodegta.mooo.com",
             "fingerprint": "random",
-            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ&",
+            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ",
             "shortId": "bda17fce2abc5bde"
           },
           "tcpSettings": {}
@@ -285,7 +285,7 @@
           "realitySettings": {
             "serverName": "submodegta.mooo.com",
             "fingerprint": "random",
-            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ&",
+            "publicKey": "njl8PDvLLjyBVy9XdLpltF5ItESKFgOWyUS7cLzTMHQ",
             "shortId": "bda17fce2abc5bde"
           },
           "tcpSettings": {}
