@@ -332,6 +332,11 @@
           "type": "field",
           "network": "tcp,udp",
           "balancerTag": "stable-auto"
+        },
+        {
+          "type": "field",
+          "network": "tcp,udp",
+          "outboundTag": "block"
         }
       ],
       "balancers": [
