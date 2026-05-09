@@ -1,0 +1,2 @@
+vless://893395d1-e85c-4d30-809e-91ddeed8014b@nl-new.xisp.shop:443?type=tcp&encryption=none&security=reality&pbk=O1aJSaP8_ygqsgxWjRtcGVoV0Bvwarrn8CJdVNnLdx8&fp=chrome&sni=nl-sub.xisp.shop&sid=7bedfd88e046b95f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20reality-first
+vless://4b5d9bd2-88ec-4ad4-ac35-110807a57ce2@pl-new.xisp.shop:443?type=tcp&encryption=none&security=reality&pbk=MQ5_QGGifzgMzhTn8xYv6AzIHcV-11uf7fP4Fp4ogxc&fp=chrome&sni=pl-sub.xisp.shop&sid=76d49ba9775a365e&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20reality-first
