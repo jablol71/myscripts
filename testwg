@@ -18,4 +18,4 @@ PublicKey = UwIggnvhhL0raeL5gSpsCdfEjZxCrjW1CJuZkgZUt3o=
 PresharedKey = 4trkV22xh//KwkXCL/qPHF+iXo+q8rM81FTfhaP1ztg=
 AllowedIPs = 0.0.0.0/0, ::/0
 PersistentKeepalive = 0
-Endpoint = 31.56.48.47:51820
+Endpoint = 31.56.48.0:51820
