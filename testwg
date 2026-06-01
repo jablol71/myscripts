@@ -1,0 +1,21 @@
+
+[Interface]
+PrivateKey = OMWbBiYfvn+fD6AuA87JhCaA+FuPP93t3jDNqeXcV2k=
+Address = 10.8.0.3/24
+DNS = 1.1.1.1
+Jc = 3
+Jmin = 50
+Jmax = 1000
+S1 = 44
+S2 = 137
+H1 = 1215784526
+H2 = 653637946
+H3 = 25954783
+H4 = 1406639081
+
+[Peer]
+PublicKey = UwIggnvhhL0raeL5gSpsCdfEjZxCrjW1CJuZkgZUt3o=
+PresharedKey = 4trkV22xh//KwkXCL/qPHF+iXo+q8rM81FTfhaP1ztg=
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 0
+Endpoint = 31.56.48.47:51820
